@@ -29,4 +29,6 @@ These are the two most interpretable frequencies.  The lower frequency wave show
 
 <img src="figs/nvf2.png" width="600">
 
-This plot shows the filtered data superimposed over the noisy data.  They are quite similar considering we filtered out over 95% of the signal.  This technique could be used to predict future trends because it allows us to filter out non repeating, one-time fluctuations in the data and find the patterns that are cyclical.  Please see the article linked above for more detail.  
+This plot shows the filtered data superimposed over the noisy data.  They are quite similar considering we filtered out over 95% of the signal.  This technique could be used to predict future trends because it allows us to filter out non repeating, one-time fluctuations in the data and find the patterns that are cyclical.
+
+Please see the article linked above for more detail!   
