@@ -5,7 +5,7 @@ This repo contains code that goes along with a [Medium article](https://nathanie
 **Language:**  Python verion 3.8.3    
 **Packages:** pandas, numpy, matplotlib, sklearn  
 **Data:** https://www.kaggle.com/robikscube/hourly-energy-consumption?select=AEP_hourly.csv  
-**Resources:** http://databookuw.com/ & [Steve Brunton Youtube Channel](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
+**Resources:** http://databookuw.com/ & [Steve Brunton's YouTube Channel](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
 
 ### Visualizations
 
