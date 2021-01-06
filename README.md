@@ -1,10 +1,11 @@
 # Repo Overview
 This repo contains code that goes along with a [Medium article](https://nathaniel-lanier.medium.com/fourier-transforms-for-detecting-seasonality-and-feature-engineering-5a91fbfe6e7c).  The code demonstrates a technique that uses the Discrete Fourier Transform to detect seasonality in time series data and generate features after filtering out unnecessary  noise.  Among other things this technique could be used in a model to forecast future trends.  Please see the Medium article for a detailed walk through of the technique and an explanation of the code.  Comments and docstrings have been provided in the code as well.  
 
-### Language, Packages and Data
+### Language, Packages, Data and Resources
 **Language:**  Python verion 3.8.3    
-**Packages:** pandas, numpy, matplotlib, sklearn 
-**Data:** https://www.kaggle.com/robikscube/hourly-energy-consumption?select=AEP_hourly.csv
+**Packages:** pandas, numpy, matplotlib, sklearn  
+**Data:** https://www.kaggle.com/robikscube/hourly-energy-consumption?select=AEP_hourly.csv  
+**Resources:** http://databookuw.com/ & [Steve Brunton Youtube Channel](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
 
 ### Visualizations
 
